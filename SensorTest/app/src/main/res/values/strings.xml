@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SensorTest</string>
+    <string name="action_settings">Settings</string>
+    <string name="dialog_SensorNotPresent">Sensor not found!</string>
+    <string name="dialog_messageSensorNotPresent">Could not find the necessary sensors on this device!  App cannot be used.</string>
+    <string name="dialog_ok">Ok</string>
+</resources>
